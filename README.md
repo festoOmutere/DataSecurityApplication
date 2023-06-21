@@ -3,7 +3,7 @@ This is a data security tool/application that encrypt and decrypt text files, im
 
 /*
 This application was developed on 21st of June 2023
-by Festo Omutere, (sfomutere@gmail.com ; festoomutere.github.io)
+by Festo Omutere, (sfomutere@gmail.com ; festoomutere.github.io )
 as a data security Artifact.
 */
 
