@@ -7,6 +7,6 @@ by Festo Omutere, (sfomutere@gmail.com ; festoomutere.github.io )
 as a data security Artifact.
 */
 
-**Instructions** 
+__Instructions__
 1. You can download the DataSecurityApplication.jar file on your pc and click to run the tool
 2. You can alternatively download the DataSecurityTool project folder on your PC, Install Eclipse, launch Eclipse, import the project folder, and then run as an application (1). 
